@@ -1,4 +1,4 @@
-# 👨‍💻 Upeka Diluksha | Computer Engineering Student
+# 👨‍💻 Upeka Diluksha | Computer Science Engineering Student
 
 ## 🌟 About Me
 ```json
