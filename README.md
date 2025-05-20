@@ -1,45 +1,83 @@
-# Upeka Diluksha
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diluksha-upeka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dilukshaupeka@gmail.com)
+# UPEKA DILUKSHA
 
-## Computer Science Engineering Student | AI & ML Enthusiast
+**Computer Engineering Undergraduate | AI & ML Specialist**
 
-Computer Engineering undergraduate at University of Ruhuna with a focus on AI, Machine Learning, and Web Development. Passionate about building innovative solutions and exploring emerging technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diluksha-upeka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilukshaupeka@gmail.com)
 
-## Technical Skills
+</div>
 
-### Languages & Tools
+---
+
+## ABOUT
+
+University of Ruhuna computer engineering student focused on artificial intelligence, machine learning, and web development. Building innovative solutions at the intersection of emerging technologies.
+
+```json
+{
+  "education": "B.Sc. Computer Engineering",
+  "focus": ["AI", "Machine Learning", "Web Development"],
+  "status": "Open to Collaboration"
+}
+```
+
+---
+
+## TECH STACK
+
+<div align="center">
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Featured Projects
+</div>
 
-### EV Charging Station Booking System
-An intuitive platform facilitating real-time booking of EV charging stations.
-- **Technologies**: React Native, Node.js, MongoDB
-- **Features**: Real-time availability tracking, Secure payment processing
+---
 
-### Live Talk Messaging Platform
-Real-time chat application with secure authentication and messaging.
-- **Technologies**: Socket.io, React, JWT
-- **Features**: Instant messaging, End-to-end encryption
+## FEATURED PROJECTS
 
-## Open to Collaboration
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">EV Charging Station Booking System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
+      <p align="center">Real-time EV charging station booking platform with integrated payment processing</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Live Talk Messaging Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+      </p>
+      <p align="center">Real-time chat application with secure authentication and encrypted messaging</p>
+    </td>
+  </tr>
+</table>
 
-Actively seeking opportunities to collaborate on innovative projects in AI, machine learning, and web development. Open to internships and research opportunities.
+---
 
-```json
-{
-  "education": {
-    "degree": "B.Sc. in Computer Engineering",
-    "institution": "University of Ruhuna"
-  },
-  "interests": ["Artificial Intelligence", "Machine Learning", "Web Development"]
-}
-```
+<div align="center">
+
+## COLLABORATION
+
+Currently seeking opportunities in AI, machine learning, and web development.
+Open to internships, research projects, and innovative collaborations.
+
+</div>
