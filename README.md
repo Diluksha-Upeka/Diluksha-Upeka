@@ -10,13 +10,13 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/diluksha-upeka">
+<a href="https://www.linkedin.com/in/upeka-diluksha">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=00FFFF" alt="LinkedIn"/>
 </a>
 <a href="mailto:dilukshaupeka@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=FF6B6B" alt="Email"/>
 </a>
-<a href="#">
+<a href="https://portfolio-vtng.onrender.com/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=7C3AED" alt="Portfolio"/>
 </a>
 
