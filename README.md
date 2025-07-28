@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=UPEKA%20DILUKSHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20%7C%20AI%20ENGINEER%20%7C%20CODE%20ALCHEMIST&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,23,1&height=300&section=header&text=UPEKA%20DILUKSHA&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20%7C%20AI%20ENGINEER%20%7C%20CODE%20ALCHEMIST&descAlignY=55&descSize=18)
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%3C%2F%3E+BUILDING+THE+FUTURE;%F0%9F%A4%96+AI+%26+MACHINE+LEARNING;%F0%9F%8C%90+FULL-STACK+DEVELOPMENT;%E2%9A%A1+INNOVATION+CATALYST" alt="Typing Animation" />
 
