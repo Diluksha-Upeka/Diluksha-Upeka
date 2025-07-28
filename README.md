@@ -41,7 +41,7 @@ class UpekaDiluksha:
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "TypeScript", "Java"],
             "ai_ml": ["TensorFlow", "PyTorch", "OpenCV", "Scikit-learn"],
-            "frontend": ["React", "Next.js", "React Native", "Tailwind CSS"],
+            "frontend": ["React", "Next.js", "React Native"],
             "backend": ["Node.js", "Express", "FastAPI", "MongoDB"],
             "cloud": ["AWS", "Docker", "Kubernetes", "Firebase"],
             "tools": ["Git", "VS Code", "Figma", "Postman"]
