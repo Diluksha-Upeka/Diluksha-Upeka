@@ -50,6 +50,7 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 
 ---
 
-![GitHub Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=UpekaDiluksha&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=UpekaDiluksha&theme=dark&hide_border=true)
+
 
 
