@@ -4,9 +4,9 @@
 
 I am a final-year Computer Engineering student at the **Faculty of Engineering, University of Ruhuna**, specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. My passion lies in bridging the gap between complex algorithmic research and scalable software solutions.
 
-Currently, I am working on advanced research involving **Blockchain and Graph Neural Networks (GNN)** for vehicular networks, alongside building practical web applications.
+Currently, I am working on advanced research involving **Blockchain and Graph Neural Networks (GNN)** for vehicular networks, alongside building practical web applications and AI applications.
 
-- 🔭 **Current Focus:** Blockchain & GNN-LLM based schemes for vehicular security.
+- 🔭 **Current Focus:** AI and machine learning.
 - 🎓 **Education:** B.Sc. Engineering (Honours) in Computer Engineering.
 - 👯 **Looking to collaborate on:** AI/ML research, Computer Vision projects, and Open Source.
 - 💬 **Ask me about:** AI/ML, React Native, Node.js, Computer Vision
@@ -45,29 +45,14 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Blockchain & GNN-LLM Security Scheme** | *Final Year Research Project.* A novel approach for mitigating Control Flooding Attacks in Software Defined Vehicular Networks using Temporal Graph Neural Networks and LLMs. | Python, GNN, Blockchain |
 | **EV Charging** | A next-gen charging station management system featuring real-time tracking, AI route optimization, and quantum payment processing. | React Native, Node.js, Socket.io |
 | **Live Talk** | An end-to-end encrypted real-time communication platform supporting secure file transfer and multi-user channels. | React, Redis, Socket.io |
 
 ---
 
-## 📊 GitHub Stats
+### 🌱 Currently Learning
+<img src="https://komarev.com/ghpvc/?username=UpekaDiluksha&color=green" alt="visitors"/>
+- Deep Learning & Computer Vision
+- Full-stack React Native Apps
+- AI/ML Side Projects
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UpekaDiluksha&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpekaDiluksha&layout=compact&theme=minimal&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/upeka-diluksha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dilukshaupeka@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://portfolio-vtng.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
