@@ -50,9 +50,6 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 
 ---
 
-### 🌱 Currently Learning
-<img src="https://komarev.com/ghpvc/?username=UpekaDiluksha&color=green" alt="visitors"/>
-- Deep Learning & Computer Vision
-- Full-stack React Native Apps
-- AI/ML Side Projects
+![GitHub Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=UpekaDiluksha&layout=compact&theme=radical)
+
 
