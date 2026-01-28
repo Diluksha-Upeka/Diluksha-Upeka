@@ -47,6 +47,7 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 | :--- | :--- | :--- |
 | **EV Charging** | A next-gen charging station management system featuring real-time tracking, AI route optimization, and quantum payment processing. | React Native, Node.js, Socket.io |
 | **Live Talk** | An end-to-end encrypted real-time communication platform supporting secure file transfer and multi-user channels. | React, Redis, Socket.io |
+| **Salary Estimator** | A full-stack Machine Learning application with a CI/CD pipeline, Docker containerization, and production deployment on Render Cloud, moving beyond static notebooks. | Python, Flask, Docker, Render, Github Actions |
 
 ---
 
