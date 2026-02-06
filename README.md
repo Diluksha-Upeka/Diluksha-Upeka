@@ -49,6 +49,7 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 | **Live Talk** | An end-to-end encrypted real-time communication platform supporting secure file transfer and multi-user channels. | React, Redis, Socket.io |
 | **Salary Estimator** | A full-stack Machine Learning application with a CI/CD pipeline, Docker containerization, and production deployment on Render Cloud, moving beyond static notebooks. | Python, Flask, Docker, Render, Github Actions |
 | **Surveillance Video Analysis** | An intelligent dashboard for real-time video stream processing, object detection, and behavioral analytics for security insights. | Python, OpenCV, TensorFlow/PyTorch, FastAPI/Streamlit |
+| **ContextIQ** | Chat with your latest PDF using Gemini + Pinecone RAG. Upload → chunk → embed → retrieve → answer with grounded context. | Python, Streamlit, Gemini, Pinecone, LangChain, PyPDF |
 
 ---
 
