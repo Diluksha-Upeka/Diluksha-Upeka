@@ -1,7 +1,8 @@
 # Hi there, I'm Upeka Diluksha 👋
 
 **Computer Engineering Undergraduate | AI & Full-Stack Developer**
-[🌐 Visit My Portfolio](https://diluksha-upeka.me)
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-diluksha--upeka.me-2ea44f?style=for-the-badge&logo=vercel)](https://diluksha-upeka.me)
 
 I am a final-year Computer Engineering student at the **Faculty of Engineering, University of Ruhuna**, specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. My passion lies in bridging the gap between complex algorithmic research and scalable software solutions.
 
@@ -51,14 +52,15 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **EV Charging** | A next-gen charging station management system featuring real-time tracking, AI route optimization, and quantum payment processing. | React Native, Node.js, Socket.io |
-| **Live Talk** | An end-to-end encrypted real-time communication platform supporting secure file transfer and multi-user channels. | React, Redis, Socket.io |
-| **Salary Estimator** | A full-stack Machine Learning application with a CI/CD pipeline, Docker containerization, and production deployment on Render Cloud, moving beyond static notebooks. | Python, Flask, Docker, Render, Github Actions |
-| **Surveillance Video Analysis** | An intelligent dashboard for real-time video stream processing, object detection, and behavioral analytics for security insights. | Python, OpenCV, TensorFlow/PyTorch, FastAPI/Streamlit |
-| **ContextIQ** | Chat with your latest PDF using Gemini + Pinecone RAG. Upload → chunk → embed → retrieve → answer with grounded context. | Python, Streamlit, Gemini, Pinecone, LangChain, PyPDF |
-| **NeuroSpace** | A Multi-Modal GraphRAG Agent that processes video lectures and papers into a knowledge graph. Features cross-modal navigation (linking video timestamps to graph nodes) and agentic retrieval. | LlamaIndex, Neo4j, React Flow, FastAPI, Docker |
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **EV Charging** | A next-gen charging station management system featuring real-time tracking, AI route optimization, and quantum payment processing. | React Native, Node.js, Socket.io | ![Completed](https://img.shields.io/badge/status-completed-brightgreen) |
+| **Live Talk** | An end-to-end encrypted real-time communication platform supporting secure file transfer and multi-user channels. | React, Redis, Socket.io | ![Completed](https://img.shields.io/badge/status-completed-brightgreen) |
+| **Salary Estimator** | A full-stack Machine Learning application with a CI/CD pipeline, Docker containerization, and production deployment on Render Cloud, moving beyond static notebooks. | Python, Flask, Docker, Render, Github Actions | ![Completed](https://img.shields.io/badge/status-completed-brightgreen) |
+| **Surveillance Video Analysis** | An intelligent dashboard for real-time video stream processing, object detection, and behavioral analytics for security insights. | Python, OpenCV, TensorFlow/PyTorch, FastAPI/Streamlit | ![Completed](https://img.shields.io/badge/status-completed-brightgreen) |
+| **ContextIQ** | Chat with your latest PDF using Gemini + Pinecone RAG. Upload → chunk → embed → retrieve → answer with grounded context. | Python, Streamlit, Gemini, Pinecone, LangChain, PyPDF | ![Completed](https://img.shields.io/badge/status-completed-brightgreen) |
+| **NeuroSpace** | A Multi-Modal GraphRAG Agent that processes video lectures and papers into a knowledge graph. Features cross-modal navigation (linking video timestamps to graph nodes) and agentic retrieval. | LlamaIndex, Neo4j, React Flow, FastAPI, Docker | ![In Development](https://img.shields.io/badge/status-in%20development-orange) |
+
 
 ---
 
