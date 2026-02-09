@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9E5F&width=435&lines=Visit+my+portfolio+at+diluksha-upeka.me;See+my+latest+RAG+research;Check+out+my+designs" alt="Typing SVG" />
 </a>
 
+
 I am a final-year Computer Engineering student at the **Faculty of Engineering, University of Ruhuna**, specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. My passion lies in bridging the gap between complex algorithmic research and scalable software solutions.
 
 Currently, I am working on advanced research involving **Blockchain and Graph Neural Networks (GNN)** for vehicular networks, alongside building practical web applications and AI applications.
