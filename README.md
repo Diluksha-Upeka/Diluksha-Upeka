@@ -1,12 +1,13 @@
 # Hi there, I'm Upeka Diluksha 👋
 
 **Computer Engineering Undergraduate | AI & Full-Stack Developer**
+[🌐 Visit My Portfolio](https://diluksha-upeka.me)
 
 I am a final-year Computer Engineering student at the **Faculty of Engineering, University of Ruhuna**, specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. My passion lies in bridging the gap between complex algorithmic research and scalable software solutions.
 
 Currently, I am working on advanced research involving **Blockchain and Graph Neural Networks (GNN)** for vehicular networks, alongside building practical web applications and AI applications.
 
-- 🔭 **Current Focus:** AI and machine learning.
+- 🔭 **Current Focus:** Building Agentic RAG systems and Multi-Modal Knowledge Graphs (GraphRAG).
 - 🎓 **Education:** B.Sc. Engineering (Honours) in Computer Engineering.
 - 👯 **Looking to collaborate on:** AI/ML research, Computer Vision projects, and Open Source.
 - 💬 **Ask me about:** AI/ML, React Native, Node.js, Computer Vision
@@ -26,6 +27,13 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Generative AI & Agentic RAG**
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat&logo=llama&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
 
 **Web Development**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -50,6 +58,7 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 | **Salary Estimator** | A full-stack Machine Learning application with a CI/CD pipeline, Docker containerization, and production deployment on Render Cloud, moving beyond static notebooks. | Python, Flask, Docker, Render, Github Actions |
 | **Surveillance Video Analysis** | An intelligent dashboard for real-time video stream processing, object detection, and behavioral analytics for security insights. | Python, OpenCV, TensorFlow/PyTorch, FastAPI/Streamlit |
 | **ContextIQ** | Chat with your latest PDF using Gemini + Pinecone RAG. Upload → chunk → embed → retrieve → answer with grounded context. | Python, Streamlit, Gemini, Pinecone, LangChain, PyPDF |
+| **NeuroSpace** | A Multi-Modal GraphRAG Agent that processes video lectures and papers into a knowledge graph. Features cross-modal navigation (linking video timestamps to graph nodes) and agentic retrieval. | LlamaIndex, Neo4j, React Flow, FastAPI, Docker |
 
 ---
 
