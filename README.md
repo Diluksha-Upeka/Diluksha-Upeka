@@ -2,7 +2,7 @@
 
 **Computer Engineering Undergraduate | AI & Full-Stack Developer**
 
-<a href="https://diluksha-upeka.me">
+<a href="https://diluksha-upeka.me ">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9E5F&width=435&lines=Visit+my+portfolio+at+diluksha-upeka.me;See+my+latest+RAG+research;Check+out+my+designs" alt="Typing SVG" />
 </a>
 
