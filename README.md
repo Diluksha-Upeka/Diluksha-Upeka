@@ -57,13 +57,13 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-## 📌 Highlights
+##  Highlights
 - 6+ Production Deployed Applications
 - Built end-to-end RAG systems using Pinecone & LangChain
 - Designed ML pipelines with CI/CD + Docker
 - Real-time systems using WebSockets
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 | Project | Live Demo | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- | :--- |
@@ -77,22 +77,22 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 - Graph Neural Networks (GNN)
 - Blockchain Systems for Vehicular Networks
 - Multi-Agent AI Systems
 - Knowledge Graph Construction
 
-## 🎤 Beyond Code
+##  Beyond Code
 - Mathematics Teacher
 - Technical Presenter & Public Speaker
 - AI Systems Enthusiast
 
 ##  GitHub Stats
 
-![GitHub Stats](https://diluksha-upekas-projects.vercel.app/github-readme-stats/api?username=Diluksha-Upeka&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://diluksha-upekas-projects.vercel.app/github-readme-stats/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-git-master-diluksha-upekas-projects.vercel.app/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=dark&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=dark&hide_border=true)
+
 
 
 ## Let's Connect
