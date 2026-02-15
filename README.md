@@ -67,7 +67,7 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=dark&hide_border=true&v=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=dark&hide_border=true&v=5)
 
 
 
