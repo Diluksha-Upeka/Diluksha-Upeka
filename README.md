@@ -90,7 +90,7 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 
 ##  GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=light&hide_border=true)
 ![Top Languages](https://github-readme-stats-git-master-diluksha-upekas-projects.vercel.app/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=dark&hide_border=true)
 
 ## Let's Connect
