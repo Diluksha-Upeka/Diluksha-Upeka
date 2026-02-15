@@ -1,15 +1,19 @@
 # Hi there, I'm Upeka Diluksha 👋
 
-**Computer Engineering Undergraduate | AI & Full-Stack Developer**
+**AI Systems Engineer | RAG & Agentic AI | Full-Stack ML Developer**
 
 <a href="https://diluksha-upeka.me ">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9E5F&width=435&lines=Visit+my+portfolio+at+diluksha-upeka.me;See+my+latest+RAG+research;Check+out+my+designs" alt="Typing SVG" />
 </a>
 
 
-I am a final-year Computer Engineering student at the **Faculty of Engineering, University of Ruhuna**, specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. My passion lies in bridging the gap between complex algorithmic research and scalable software solutions.
+I am a final-year Computer Engineering student at the **Faculty of Engineering, University of Ruhuna**, specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. I design and deploy AI systems that move beyond notebooks into production. My work focuses on Retrieval-Augmented Generation (RAG), multi-modal knowledge graphs, and scalable ML pipelines.
 
-Currently, I am working on advanced research involving **Blockchain and Graph Neural Networks (GNN)** for vehicular networks, alongside building practical web applications and AI applications.
+##  Currently Building
+- Multi-Modal GraphRAG Systems (NeuroSpace)
+- Agentic AI workflows with tool-calling
+- Scalable MLOps pipelines with Docker + CI/CD
+- Research on Blockchain + Graph Neural Networks(TGNNS) for SDVNs
 
 - 🔭 **Current Focus:** Building Agentic RAG systems and Multi-Modal Knowledge Graphs (GraphRAG).
 - 🎓 **Education:** B.Sc. Engineering (Honours) in Computer Engineering.
@@ -52,6 +56,11 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
+## 📌 Highlights
+- 🚀 6+ Production Deployed Applications
+- 🧠 Built end-to-end RAG systems using Pinecone & LangChain
+- ⚙️ Designed ML pipelines with CI/CD + Docker
+- 📡 Real-time systems using WebSockets
 
 ## 🚀 Featured Projects
 
@@ -67,7 +76,30 @@ Currently, I am working on advanced research involving **Blockchain and Graph Ne
 
 ---
 
+## 🔬 Research Interests
+- Graph Neural Networks (GNN)
+- Blockchain Systems for Vehicular Networks
+- Multi-Agent AI Systems
+- Knowledge Graph Construction
+
+## 🎤 Beyond Code
+- Mathematics Teacher
+- Technical Presenter & Public Speaker
+- AI Systems Enthusiast
+
+## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=dark&hide_border=true&v=5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diluksha-Upeka&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=dark&hide_border=true)
+
+## 📫 Let's Connect
+- 🌐 Portfolio: https://diluksha-upeka.me
+- 💼 LinkedIn: (https://www.linkedin.com/in/upeka-diluksha/)
+- 📧 Email: (dilukshaupeka@gmail.com)
+
+
+
 
 
 
