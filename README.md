@@ -3,7 +3,7 @@
 **AI Systems Engineer | RAG & Agentic AI | Full-Stack ML Developer**
 
 <a href="https://diluksha-upeka.me ">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9E5F&width=435&lines=Visit+my+portfolio+at+diluksha-upeka.me;See+my+latest+RAG+research;Check+out+my+designs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9E5F&width=435&lines=Visit+my+portfolio+at+diluksha-upeka.me;See+my+latest+Projects;AI+RAG+ML+OPs" alt="Typing SVG" />
 </a>
 
 
