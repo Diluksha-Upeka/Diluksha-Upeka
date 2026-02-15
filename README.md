@@ -9,17 +9,18 @@
 
 I am a final-year Computer Engineering student at the **Faculty of Engineering, University of Ruhuna**, specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. I design and deploy AI systems that move beyond notebooks into production. My work focuses on Retrieval-Augmented Generation (RAG), multi-modal knowledge graphs, and scalable ML pipelines.
 
-##  Currently Building
-- Multi-Modal GraphRAG Systems (NeuroSpace)
-- Agentic AI workflows with tool-calling
-- Scalable MLOps pipelines with Docker + CI/CD
-- Research on Blockchain + Graph Neural Networks(TGNNS) for SDVNs
-
 - 🔭 **Current Focus:** Building Agentic RAG systems and Multi-Modal Knowledge Graphs (GraphRAG).
 - 🎓 **Education:** B.Sc. Engineering (Honours) in Computer Engineering.
 - 👯 **Looking to collaborate on:** AI/ML research, Computer Vision projects, and Open Source.
 - 💬 **Ask me about:** AI/ML, React Native, Node.js, Computer Vision
 
+---
+
+##  Currently Building
+- Multi-Modal GraphRAG Systems (NeuroSpace)
+- Agentic AI workflows with tool-calling
+- Scalable MLOps pipelines with Docker + CI/CD
+- Research on Blockchain + Graph Neural Networks(TGNNS) for SDVNs
 ---
 
 ## 🛠️ Technical Arsenal
@@ -57,10 +58,10 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 
 ---
 ## 📌 Highlights
-- 🚀 6+ Production Deployed Applications
-- 🧠 Built end-to-end RAG systems using Pinecone & LangChain
-- ⚙️ Designed ML pipelines with CI/CD + Docker
-- 📡 Real-time systems using WebSockets
+- 6+ Production Deployed Applications
+- Built end-to-end RAG systems using Pinecone & LangChain
+- Designed ML pipelines with CI/CD + Docker
+- Real-time systems using WebSockets
 
 ## 🚀 Featured Projects
 
@@ -87,16 +88,17 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 - Technical Presenter & Public Speaker
 - AI Systems Enthusiast
 
-## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=dark&hide_border=true&v=5)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diluksha-Upeka&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=dark&hide_border=true)
+##  GitHub Stats
+
+![GitHub Stats](https://diluksha-upekas-projects.vercel.app/github-readme-stats/api?username=Diluksha-Upeka&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://diluksha-upekas-projects.vercel.app/github-readme-stats/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=dark&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=dark&hide_border=true)
 
-## 📫 Let's Connect
-- 🌐 Portfolio: https://diluksha-upeka.me
-- 💼 LinkedIn: (https://www.linkedin.com/in/upeka-diluksha/)
-- 📧 Email: (dilukshaupeka@gmail.com)
+
+## Let's Connect
+- Portfolio: https://diluksha-upeka.me
+- LinkedIn: (https://www.linkedin.com/in/upeka-diluksha/)
+- Email: (dilukshaupeka@gmail.com)
 
 
 
