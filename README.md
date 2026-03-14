@@ -95,9 +95,8 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=light&hide_border=true&v=13&t=20260306) 
 ![Top Langs](https://github-readme-stats-rho-pied-17.vercel.app/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=default&hide_border=true&v=13&t=20260306)
 
-<div align="center">
 
-## ✦ Let's Connect ✦
+## Let's Connect
 
 <br/>
 
@@ -116,10 +115,10 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 
 ---
 
-## 🐍 Contribution Visuals
+## Contribution Visuals
 
 <div align="center">
-  <img src="https://github.com/Diluksha-Upeka/Diluksha-Upeka/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Diluksha-Upeka/Diluksha-Upeka/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 <div align="center">
