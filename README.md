@@ -95,29 +95,36 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=light&hide_border=true&v=13&t=20260306) 
 ![Top Langs](https://github-readme-stats-rho-pied-17.vercel.app/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=default&hide_border=true&v=13&t=20260306)
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p align="left">
+## ✦ Let's Connect ✦
 
-<a href="https://diluksha-upeka.me">
-<img src="https://img.shields.io/badge/Portfolio-2F9E5F?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/upeka-diluksha/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0d1117?style=for-the-badge&logoColor=white&labelColor=2F9E5F&logo=vercel)](https://diluksha-upeka.me)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0d1117?style=for-the-badge&logoColor=white&labelColor=0A66C2&logo=linkedin)](https://www.linkedin.com/in/upeka-diluksha/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/◈%20Email-0d1117?style=for-the-badge&logoColor=white&labelColor=D14836&logo=gmail)](mailto:dilukshaupeka@gmail.com)
 
-<a href="mailto:dilukshaupeka@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-</p>
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
+
+
+---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Diluksha-Upeka/Diluksha-Upeka/blob/output/github-contribution-grid-snake.svg)
+<!-- Option A: If you set up the GitHub Action (recommended) -->
+<div align="center">
+  <img src="https://github.com/Diluksha-Upeka/Diluksha-Upeka/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
+  <img src="https://github.com/Diluksha-Upeka/Diluksha-Upeka/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
+</div>
 
-
-
-
-
+<!-- Option B: Skip snake, use this premium activity graph instead -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diluksha-Upeka&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
