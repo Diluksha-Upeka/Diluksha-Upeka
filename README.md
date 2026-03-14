@@ -101,30 +101,27 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0d1117?style=for-the-badge&logoColor=white&labelColor=2F9E5F&logo=vercel)](https://diluksha-upeka.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F7F9FC?style=for-the-badge&logo=vercel&logoColor=111111&labelColor=EAF3EC)](https://diluksha-upeka.me)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0d1117?style=for-the-badge&logoColor=white&labelColor=0A66C2&logo=linkedin)](https://www.linkedin.com/in/upeka-diluksha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F6FAFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=E3F0FF)](https://www.linkedin.com/in/upeka-diluksha/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/◈%20Email-0d1117?style=for-the-badge&logoColor=white&labelColor=D14836&logo=gmail)](mailto:dilukshaupeka@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FFF7F6?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=FFE9E6)](mailto:dilukshaupeka@gmail.com)
 
 <br/>
 
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=F3F6FA&height=2&section=footer)
 
 </div>
 
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Visuals
 
-<!-- Option A: If you set up the GitHub Action (recommended) -->
 <div align="center">
-  <img src="https://github.com/Diluksha-Upeka/Diluksha-Upeka/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
-  <img src="https://github.com/Diluksha-Upeka/Diluksha-Upeka/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
+  <img src="https://github.com/Diluksha-Upeka/Diluksha-Upeka/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-<!-- Option B: Skip snake, use this premium activity graph instead -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diluksha-Upeka&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diluksha-Upeka&theme=github-light&hide_border=true&area=true" width="100%"/>
 </div>
