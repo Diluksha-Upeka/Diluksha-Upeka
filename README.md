@@ -98,6 +98,8 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 
 ## Let's Connect
 
+<div align="center">
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F7F9FC?style=for-the-badge&logo=vercel&logoColor=111111&labelColor=EAF3EC)](https://diluksha-upeka.me)
@@ -116,10 +118,6 @@ I am a final-year Computer Engineering student at the **Faculty of Engineering, 
 ---
 
 ## Contribution Visuals
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Diluksha-Upeka/Diluksha-Upeka/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diluksha-Upeka&theme=github-light&hide_border=true&area=true" width="100%"/>
