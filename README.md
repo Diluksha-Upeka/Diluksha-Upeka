@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F9E5F,100:00C2FF&height=200&section=header&text=Upeka%20Diluksha&fontSize=40&fontAlignY=35&desc=AI%20Systems%20Engineer%20|%20RAG%20|%20ML%20Ops&descAlignY=55"/>
+</p>
+
 # Hi there, I'm Upeka Diluksha 👋
 
 **AI Systems Engineer | RAG & Agentic AI | Full-Stack ML Developer**
