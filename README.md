@@ -78,7 +78,7 @@ Graph Neural Networks &nbsp;·&nbsp; Knowledge Graph Construction &nbsp;·&nbsp;
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diluksha-Upeka&theme=github-light&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/Diluksha-Upeka" alt="Contribution Graph" />
 </div>
 
 ---
