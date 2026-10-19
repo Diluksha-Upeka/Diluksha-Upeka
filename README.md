@@ -73,7 +73,7 @@ Graph Neural Networks &nbsp;·&nbsp; Knowledge Graph Construction &nbsp;·&nbsp;
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=light&hide_border=true&v=13&t=20260510b" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Diluksha-Upeka&theme=light&hide_border=true&v=13&t=20261025b" alt="GitHub Streak" />
   <img src="https://github-readme-stats-rho-pied-17.vercel.app/api/top-langs/?username=Diluksha-Upeka&layout=compact&theme=default&hide_border=true&v=13&t=20260510b" alt="Top Languages" />
 </p>
 
